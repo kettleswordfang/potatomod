@@ -12,6 +12,3 @@ Can be found in `Robots for Fun & Profit` when Electronics is level 4.
 + copper wire (5)
 + battery (1)
 + raw potato
-
-
-![totally not a light saber](https://i.imgur.com/Zd0VsVC.png)
