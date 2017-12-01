@@ -12,3 +12,5 @@ Can be found in `Robots for Fun & Profit` when Electronics is level 4.
 + copper wire (5)
 + battery (1)
 + raw potato
+
+*Now with radio control!*
