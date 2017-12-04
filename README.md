@@ -1,5 +1,7 @@
 # CDDA Companion Potato
 
+**Now in Crazy Cataclysm! \o/**
+
 **Adds the companion potato, a very important tool for surviving after the collapse of civilisation.**
 
 Can be found in `Robots for Fun & Profit` when Electronics is level 4.  
@@ -13,4 +15,4 @@ Can be found in `Robots for Fun & Profit` when Electronics is level 4.
 + battery (1)
 + raw potato
 
-*Now with radio control!*
+*Try new radio control!*
